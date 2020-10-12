@@ -1,0 +1,49 @@
+div#ebookad {padding:0px;margin-bottom:2rem;margin-left:auto;margin-right:auto;margin-top:10px;text-align:center;}
+div#ebookad div {border:2px solid #050;border-radius:4px;display:inline-block;}
+div#ebookad a {color:black;font-size:100%;text-decoration:none;}
+div#ebookad a img {}
+#bookAdModal div.modal-content {background-color:#f8fff8;}
+#bookAdModal a.buy:hover {transform: scale(1.1, 1.1);}
+.page-intro {background-color:#f8fff8;border-color:#d6e9c6;font-style:italic;}
+footer {border-top:1px solid #777;padding-top:2rem;padding-bottom:3rem;background-color:#777;color:white;}
+footer a {color:white;margin-left:0.5rem;}
+footer a:hover {color:#050;}
+.mpart h4 {font-weight:bold;background : url(images/lrline.gif) no-repeat bottom left;padding:0;margin:10px 0 10px 0;font-size:110%;}
+.panel-grey {background-color:#f8f8f8;}
+div.card-success h5 {background-color:#f8fff8;color:#050;}
+.tcl {background:url(images/tcl.gif) no-repeat top left;padding-left:40px;border-left:3px solid #4e89cc;margin:15px 0 15px 15px;min-height:35px;}
+.ruby {background:url(images/ruby.gif) no-repeat top left;padding-left:40px;border-left:3px solid #ce1b1b;margin:15px 0 15px 15px;min-height:35px;}
+.perl {background:url(images/perl.gif) no-repeat top left;padding-left:40px;border-left:3px solid #666;margin:15px 0 15px 15px;min-height:38px;}
+.python {background:url(images/python.gif) no-repeat top left;padding-left:40px;border-left:3px solid #ffce42;margin:15px 0 15px 15px;min-height:38px;}
+.tclplain, .rubyplain, .perlplain, .pythonplain {}
+.tclhidden, .rubyhidden, .perlhidden, .pythonhidden {display:none;}
+nav#mainnav {background-color:#050;background-image:none;border-radius:0;padding-left:2%;}
+nav#mainnav .navbar-brand, nav#mainnav .navbar-nav li a {color:#ddd;}
+.bigger {font-size:1.3em;font-weight:bold;}
+.langselector {border:1px solid #ccc;background:#f8f8f8;padding:10px;margin-left:5px;margin-bottom:10px;}
+.fyi, .yuck, .oops, .upgrade, .tip {margin:10px 20px 20px 20px;font-style:italic;color:#777;padding:5px 5px 5px 50px;border:1px solid #d6e9c6;background:#f8f8f8;min-height:45px;border-radius:4px;}
+.fyi {background:url(images/fyi.gif) no-repeat 3px 3px;}
+.yuck {background:url(images/yuck.gif) no-repeat 3px 3px;}
+.oops {background:url(images/oops.gif) no-repeat 3px 3px;}
+.upgrade {background:url(images/upgrade.gif) no-repeat 3px 3px;}
+.tip {background:url(images/tip.gif) no-repeat 3px 3px;}  
+.upgrade a {background: #f8f8f8;}
+.fyi a {background-image: none;}
+.fyi tt, .yuck tt, .oops tt, .upgrade tt, .tip tt {color: #555;}
+ul.tightlist {padding-left:20px;}
+#tkdocs-sidebar {border-left:1px solid #d6e9c6;border-bottom:1px solid #d6e9c6;background-color:#f8fff8;padding-top:1rem;}
+div.panel-heading {font-weight:bold;}
+p.picture {text-align:center;font-size: 0.9em;padding-bottom:1.5em;font-weight:bold;color:#444;}
+.caption {text-align:center;font-size:0.9em;margin-top:0;padding-top:0;}
+p.picture img {float:none;padding-bottom:0;}
+form.cse-form div.input-group {margin-left:25px;padding-top:10px;padding-bottom:0;}
+.navbar .navbar-brand {line-height:30px;font-size:200%;}
+pre em {padding:2px;color:#457545;}
+.changelog .chgdate {font-weight:bold;font-size:0.9em;font-size:0.9em;color:#777;vertical-align:top;}
+input.gsc-input {font-size:14px !important;}
+a.gsst_a {padding-top:2px !important;line-height:1.25 !important;}
+div.widget th {width:20rem;padding-right:1em;}
+div.widget td, div.widget th {padding-bottom:0.5em;vertical-align:top;}
+div.widget h3 {font-style:italic;}
+div.tippy-content {font-size:150%;}
+div#maincontent {padding-left:2%;padding-right:2%;padding-top:1.5rem;padding-bottom:3rem;}
